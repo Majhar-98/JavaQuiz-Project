@@ -8,7 +8,7 @@ Create a quiz program that will take questions, option and answer from admin use
 - gradle 
 
 ## Data Format:
--json
+- json
 
 ## Program output:
 

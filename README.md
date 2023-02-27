@@ -114,5 +114,5 @@ JSON Format:
 ]
 
 ## Demo video: 
-In the following, there is a demo video where showen how to execute this quiz project. 
-https://user-images.githubusercontent.com/123467715/221639365-184fd79b-14c6-4c29-be6a-f9d7fb9325be.mp4
+In the following, there is a video link where showen how to execute this quiz project. 
+https://youtu.be/WL-9XupiqoQ

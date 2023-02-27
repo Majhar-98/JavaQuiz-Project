@@ -33,6 +33,10 @@ Option c:
 
 User> Sanity Testing
 
+
+https://user-images.githubusercontent.com/123467715/221639365-184fd79b-14c6-4c29-be6a-f9d7fb9325be.mp4
+
+
 Option d:
 
 User> Regression Testing

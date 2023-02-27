@@ -7,6 +7,9 @@ Create a quiz program that will take questions, option and answer from admin use
 - Selenium
 - gradle 
 
+## Data Format:
+-json
+
 ## Program output:
 
 1. Add Quiz
